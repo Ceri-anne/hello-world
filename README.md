@@ -1,1 +1,3 @@
 # hello-world
+
+Hi! I code SAS and SQL and am trying to learn some new languages...
